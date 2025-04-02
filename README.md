@@ -14,7 +14,8 @@ What if you could automate all that? 🌟
 
 Introducing **Cache Cleaner By $ankey** – a powerful, one-click solution to clear all your system's cache files effortlessly! Whether it’s Windows Update Dump Files, Browser Apps Cache, System File Check , I handle it all in the background, so you can focus on what truly matters.
 
-![motivation-success-yes-with-business-man-celebration-working-laptop-by-his-desk-office-email-good-news-smile-with-young-happy-male-employee-cheering-work_590464-84929](https://github.com/user-attachments/assets/06482f87-c224-4fdf-a315-2ea99b49568b)
+![Cache Cleaner By $ankey PC tool logo](https://github.com/user-attachments/assets/98ed06a8-5ae4-45d6-bfc8-ef626c92b356)
+
 
 
 
@@ -92,4 +93,4 @@ Before executing the Cache Cleaner By $ankey.bat file, make sure your system mee
 
 # For a step-by-step guide on how Cache Cleaner By $ankey works, check out our demo video below:
 
-🔗 [Click here to watch the full demo] (https://drive.google.com/file/d/1iKL8WKZzlUuw3FGKhSwWkt0A8rPBJeOX/view?usp=sharing)
+🔗 [Click here to watch the full demo](https://drive.google.com/file/d/1iKL8WKZzlUuw3FGKhSwWkt0A8rPBJeOX/view?usp=sharing)
