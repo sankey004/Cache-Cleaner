@@ -1,4 +1,4 @@
-# Cache Cleaner By $ankey
+# © Cache Cleaner By $ankey ©
 🚀 Say Goodbye to Manual Cache Cleanup! 🧹💻
 Let’s face it: with every click and connection, our laptops and PCs accumulate a mountain of cache files. From browsing the web to running apps, these tiny files can clog up your system, slow down your boot times, and eat up precious storage.
 
@@ -12,7 +12,7 @@ What if you could automate all that? 🌟
 
 ![motivation-success-yes-with-business-man-celebration-working-laptop-by-his-desk-office-email-good-news-smile-with-young-happy-male-employee-cheering-work_590464-84929](https://github.com/user-attachments/assets/8b27a6e2-5b4d-4c92-842d-a5a559bbb44f)
 
-Introducing **Cache Cleaner By $ankey** – a powerful, one-click solution to clear all your system's cache files effortlessly! Whether it’s Windows Update Dump Files, Browser Apps Cache, System File Check , I handle it all in the background, so you can focus on what truly matters.
+Introducing **© Cache Cleaner By $ankey ©** – a powerful, one-click solution to clear all your system's cache files effortlessly! Whether it’s Windows Update Dump Files, Browser Apps Cache, System File Check , I handle it all in the background, so you can focus on what truly matters.
 
 ![Cache Cleaner By $ankey PC tool logo](https://github.com/user-attachments/assets/98ed06a8-5ae4-45d6-bfc8-ef626c92b356)
 
