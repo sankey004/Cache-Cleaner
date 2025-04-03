@@ -43,7 +43,8 @@ Introducing **© Cache Cleaner By $ankey ©** – a powerful, one-click solution
 
 # Working of the Cache Cleaner By $ankey : 
 
-🧑‍💻 What is a Batch File?
+# 🧑‍💻 What is a Batch File?
+
 A Batch File is a simple text file that contains a series of commands executed automatically by the system. Think of it as a script that runs tasks in sequence, saving you the hassle of manually executing each command one-by-one. 💡
 
 For Cache Cleaner by $ankey, I’ve bundled all the necessary commands into one easy-to-run batch file to instantly clean up cache and boost your system’s performance! 🚀
